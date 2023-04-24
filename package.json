@@ -1,0 +1,23 @@
+{
+  "name": "temp.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjan095/temp.api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranjan095/temp.api/issues"
+  },
+  "homepage": "https://github.com/Ranjan095/temp.api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
