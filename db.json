@@ -1,5 +1,5 @@
 {
-  "list": [
+  "student": [
     {
       "id": 1,
       "name": "Ranjann",
@@ -16,6 +16,14 @@
       "id": 3,
       "name": "Suraj",
       "class": 12,
+      "city": "Patna"
+    }
+  ],
+  "school": [
+    {
+      "id": 1,
+      "schoolName": "Rk.Mission",
+      "upTo": 12,
       "city": "Patna"
     }
   ]
