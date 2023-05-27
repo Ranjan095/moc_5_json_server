@@ -1,5 +1,5 @@
 {
-  "student": [
+  "list": [
     {
       "id": 1,
       "name": "Ranjann",
@@ -13,7 +13,7 @@
       "city": "Patna"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Suraj",
       "class": 12,
       "city": "Patna"
